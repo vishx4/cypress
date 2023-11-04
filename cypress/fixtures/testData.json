@@ -1,0 +1,14 @@
+
+{
+   "url":"https://rahulshettyacademy.com/angularpractice/",
+  "name": "Vishal",
+  "gender" : "Male" ,
+  "name_locator"  : "input[name='name']:nth-child(2)" ,
+  "select_locator" : "select",
+  "binding_locator" : ":nth-child(4) > .ng-untouched",
+  "emplyment_status_locator" : "#inlineRadio3",
+  "shop_locator" : ":nth-child(2) > .nav-link:nth-child(2) > .nav-link",
+  "phone_locator" : "h4.card-title",
+  "add_to_cart_locator" : "button.btn.btn-info",
+  "productName" : ["Blackberry","Nokia Edge"]
+}
